@@ -1,0 +1,28 @@
+_repo: The-Spirit-of-the-School_54190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2017-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Football stories'
+- !lcsh 'Football -- Juvenile fiction'
+- GITenberg
+title: The Spirit of the School
+url: http://www.gutenberg.org/ebooks/54190
